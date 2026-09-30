@@ -1,4 +1,5 @@
 Repositorium der Replikationsstudie zu Large Language Models Discriminate Against Speakers of German Dialects   
+
 evalbias.py diente der Auswertung der Modellausgaben während der Replikation.
 compare_statistics.py diente dem Vergleich der Ergebnisse der Replikation mit den Ergebnisses des Originalexperiments.
 
